@@ -22,7 +22,7 @@ This repository contains all the code and resources for our RoboCup Junior 2024 
 - Install Python from [here](https://www.python.org/).
 - Install Visual Studio Code from [here](https://code.visualstudio.com/).
 - Install GitHub Desktop from [here](https://desktop.github.com/).
-- Install Termius from [here](https://termius.com/). We will use this to SSH into our bot.
+- Install Termius from [here](https://www.termius.com/free-ssh-client-for-mac-os). We will use this to SSH into our bot.
 - Optional: Install a custom command line like [iTerm2](https://iterm2.com/) or [warp.dev](https://www.warp.dev/).
 
 Thank you - ZAK BOVIS
