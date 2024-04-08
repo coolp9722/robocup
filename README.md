@@ -17,7 +17,7 @@ This repository contains all the code and resources for our RoboCup Junior 2024 
 
 
 ### Instructions
-- Install Homebrew with this command: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+- Install Homebrew: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 - Add Homebrew to your path.
 - Install Python from [here](https://www.python.org/).
 - Install Visual Studio Code from [here](https://code.visualstudio.com/).
