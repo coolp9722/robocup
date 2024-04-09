@@ -25,6 +25,6 @@ This repository contains all the code and resources for our RoboCup Junior 2024 
 - Optional: Install a custom command line like [iTerm2](https://iterm2.com/) or [warp.dev](https://www.warp.dev/).
 
 ### Resources
-- (Product list)[https://docs.google.com/spreadsheets/d/1QNYhKfrCUcBEivN0tG-NiDjfN2NlOmG5-4cjbx0BFKw/edit?usp=sharing]
+- [Product list](https://docs.google.com/spreadsheets/d/1QNYhKfrCUcBEivN0tG-NiDjfN2NlOmG5-4cjbx0BFKw/edit?usp=sharing)
 
 Thank you - ZAK BOVIS, ISHAAN SAXENA, OLIVER CARROT
