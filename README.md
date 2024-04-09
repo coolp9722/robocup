@@ -25,4 +25,4 @@ This repository contains all the code and resources for our RoboCup Junior 2024 
 - Install Termius from [here](https://www.termius.com/free-ssh-client-for-mac-os). We will use this to SSH into our bot.
 - Optional: Install a custom command line like [iTerm2](https://iterm2.com/) or [warp.dev](https://www.warp.dev/).
 
-Thank you - ZAK BOVIS
+Thank you - ZAK BOVIS, ISHAAN SAXENA, OLIVER CARROT
